@@ -10,3 +10,11 @@
 
 #Para comentar "ctrl + ;"
 
+# -: Negação          sintaxe: -a
+# **: Exponenciação   sintaxe: a ** b
+# *: Multiplicação    sintaxe: a * b
+# /: divisão          sintaxe: a / b
+# //: quociente       sintaxe: a // b
+# %: resto ou módulo  sintaxe: a % b
+# +: Adição           sintaxe: a + b
+# -: Subtração        sintaxe: a - b
